@@ -21,8 +21,21 @@ textarea {
 	border-bottom: 10px solid black;
 }
 
+.container {
+	display: grid;
+	margin: auto;
+	padding: 0px;
+}
+
 .description {
 	white-space: pre-wrap;
+	border-radius: 0px 10px 10px 0px;
+	background-color: lightgray;
+	border: 1px 0px 1px 0px solid;
+	width: auto;
+	height: 100px;
+	display: grid;
+	grid-template-columns: 1fr 4fr 1fr;
 }
 
 .time-block {
