@@ -29,9 +29,9 @@ textarea {
 
 .description {
 	white-space: pre-wrap;
-	border-radius: 0px 10px 10px 0px;
+	border-radius: 0px 15px 15px 0px;
 	background-color: lightgray;
-	border: 1px 0px 1px 0px solid;
+	border-bottom: 1px solid;
 	width: auto;
 	height: 100px;
 	display: grid;
