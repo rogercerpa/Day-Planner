@@ -32,9 +32,10 @@ textarea {
 	border-radius: 0px 15px 15px 0px;
 	background-color: lightgray;
 	border-bottom: 1px solid;
-	width: auto;
+	width: 1000px;
 	height: 100px;
 	display: grid;
+	margin: auto;
 	grid-template-columns: 1fr 4fr 1fr;
 }
 #task9am {
